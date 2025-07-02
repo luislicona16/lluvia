@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>🌟 Eres Más Fuerte de lo que Crees 🌟</title>
+  <style>
+    body {
+      background-color: #ffe6f0;
+      color: #c71585;
+      font-family: 'Comic Sans MS', cursive;
+      text-align: center;
+      animation: loveRain 2s infinite;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-top: 40px;
+    }
+    .heart {
+      font-size: 1.8em;
+      animation: float 2s infinite;
+    }
+    .mensaje {
+      margin-top: 30px;
+      font-size: 1.3em;
+      color: #8b008b;
+    }
+    @keyframes float {
+      0% { transform: translateY(0); }
+      50% { transform: translateY(-15px); }
+      100% { transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+  <h1>🌧️ Lluvia de Te Quiero 🌧️</h1>
+  <p class="heart">❤️ Te quiero mucho ❤️</p>
+  <p class="heart">💖 Te quiero mucho 💖</p>
+  <p class="heart">💕 Te quiero mucho 💕</p>
+  <p class="heart">🌸 Te quiero mucho 🌸</p>
+  <p class="heart">✨ Te quiero mucho ✨</p>
+  <p class="heart">🌈 Te quiero mucho 🌈</p>
+  <p class="heart">🎈 Te quiero mucho 🎈</p>
+  <p class="heart">🫶 Te quiero mucho 🫶</p>
+  <p class="heart">💞 Te quiero mucho 💞</p>
+  <p class="heart">☁️ Te quiero mucho ☁️</p>
+  <p class="heart">🌟 Te quiero mucho 🌟</p>
+  <p class="heart">🎀 Te quiero mucho 🎀</p>
+  <p class="heart">🦋 Te quiero mucho 🦋</p>
+  <p class="heart">🧸 Te quiero mucho 🧸</p>
+  <p class="heart">🎶 Te quiero mucho 🎶</p>
+  <h2>💌 Nunca lo olvides 💌</h2>
+  <p class="mensaje">
+    Sé que últimamente las cosas en el trabajo han sido difíciles, y que a veces parece injusto.<br>
+    Pero quiero que sepas algo muy importante: <strong>todo va a estar bien</strong>.<br>
+    Eres una persona fuerte, valiente y llena de luz. No dejes que nadie apague tu brillo. 🌟<br><br>
+    Estoy contigo. Te quiero, siempre. 💖
+  </p>
+</body>
+</html>
